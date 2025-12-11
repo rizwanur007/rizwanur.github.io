@@ -29,8 +29,8 @@
     }
 
     header img {
-        width: 180px;
-        height: 180px;
+        width: 2560px;
+        height: 800px;
         border-radius: 50%;
         object-fit: cover;
         border: 4px solid #ffffff;
