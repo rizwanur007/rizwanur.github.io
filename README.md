@@ -22,7 +22,7 @@
             url('https://i.postimg.cc/xjb05rbX/images.jpghttps://i.postimg.cc/xjb05rbX/images.jpg');
         background-size: cover;
         background-position: center;
-        padding: 1000px 20px 140px;
+        padding: 60px 20px 140px;
         text-align: center;
         color: white;
         position: relative;
