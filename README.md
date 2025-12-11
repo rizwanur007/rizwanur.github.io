@@ -212,7 +212,7 @@
     <h2>Contact</h2>
     <p>Email: <strong>rizwanur.sami007@gmail.com</strong></p>
     <p>Phone: <strong>+8801616014101</strong></p>
-    <p>Linkedin: <strong>www.linkedin.com/in/md-rizwanur-jannat-sami</strong></p>
+    <p>LinkedIn: <strong>www.linkedin.com/in/md-rizwanur-jannat-sami</strong></p>
     <p>Location: Dhaka, Bangladesh</p>
 </section>
 
