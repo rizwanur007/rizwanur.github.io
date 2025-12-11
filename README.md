@@ -146,7 +146,7 @@
 <section id="contact">
     <h2>Contact</h2>
     <p>Email: <strong>rizwanur.sami073@gmail.com</strong></p>
-    <p>Phone: <strong>+8801 6160 14101</strong></p>
+    <p>Phone: <strong>+8801616014101</strong></p>
     <p>Location: Dhaka, Bangladesh</p>
 </section>
 
