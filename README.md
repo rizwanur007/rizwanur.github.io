@@ -146,7 +146,7 @@
     </p>
 </section>
 <section id="education">
-    <h2>Research Interests</h2>
+    <h2>Education</h2>
     <ul>
         <li><b>Ahsanullah University of Science and Technology (AUST)</b></li>  
         <li>B.Sc. in Civil Engineering </li>
