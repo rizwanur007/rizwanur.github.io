@@ -19,7 +19,7 @@
     /* Header Hero Section */
     header {
         background: linear-gradient(to bottom right, rgba(0, 121, 86, 0.9), rgba(0, 0, 0, 0.7)),
-            url('https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif');
+            url('https://i.postimg.cc/xjb05rbX/images.jpghttps://i.postimg.cc/xjb05rbX/images.jpg');
         background-size: cover;
         background-position: center;
         padding: 100px 20px 140px;
