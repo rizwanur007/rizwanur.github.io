@@ -128,6 +128,7 @@
 
 <nav>
     <a href="#about">About</a>
+    <a href="#education">Education</a>
     <a href="#research">Research</a>
     <a href="#projects">Projects</a>
     <a href="#skills">Skills</a>
@@ -144,7 +145,20 @@
         engineering solutions for real-world impact.
     </p>
 </section>
-
+<section id="education">
+    <h2>Research Interests</h2>
+    <ul>
+        <li><b>Ahsanullah University of Science and Technology (AUST)</b></li>  
+        <li>B.Sc. in Civil Engineering </li>
+        <li>CGPA: 3.131</li>
+        <li><b>BAF Shaheen College Dhaka</b></li>
+        <li>Higher Secondary Certificate</li>
+        <li>GPA 5.00</li>
+        <li><b>Monipur High School and College</b></li>
+        <li>Secondary School Certificate</li>
+        <li>GPA 5.00</li>
+    </ul>
+</section>
 <section id="research">
     <h2>Research Interests</h2>
     <ul>
@@ -196,7 +210,7 @@
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <strong>rizwanur.sami073@gmail.com</strong></p>
+    <p>Email: <strong>rizwanur.sami007@gmail.com</strong></p>
     <p>Phone: <strong>+8801616014101</strong></p>
     <p>Location: Dhaka, Bangladesh</p>
 </section>
