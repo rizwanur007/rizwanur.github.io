@@ -153,7 +153,7 @@
         <p>CGPA: 3.131</p>
    <h4><li><b>BAF Shaheen College Dhaka</b></li></h4>
         <p>Higher Secondary Certificate</p>
-        <p>GPA 5.00</li></p>
+        <p>GPA 5.00</p>
    <h4><li><b>Monipur High School and College</b></li></h4>
         <p>Secondary School Certificate</p>
         <p>GPA 5.00</p>
