@@ -123,7 +123,7 @@
     <img src="https://i.postimg.cc/x1mT1w9T/Md-Rizwanur-Jannat-Sami.png" alt="Md. Rizwanur Jannat Sami">
     <h1>Md. Rizwanur Jannat Sami</h1>
     <p>Environmental Engineering | GIS & Remote Sensing | Waste-to-Energy | Urban Sustainability</p>
-    <p>Dhaka, Bangladesh | rizwanur.sami073@gmail.com | +8801616014101</p>
+    <p>Dhaka, Bangladesh | rizwanur.sami007@gmail.com | +8801616014101</p>
 </header>
 
 <nav>
