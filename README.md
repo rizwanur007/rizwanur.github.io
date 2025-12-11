@@ -148,13 +148,13 @@
 <section id="education">
     <h2>Education</h2>
     <ul>
-        <p><b>Ahsanullah University of Science and Technology (AUST)</b> 
+   <p><b>Ahsanullah University of Science and Technology (AUST)</b> 
         <li>B.Sc. in Civil Engineering </li>
         <li>CGPA: 3.131</li></p>
-        <p><b>BAF Shaheen College Dhaka</b>
+   <p><b>BAF Shaheen College Dhaka</b>
         <li>Higher Secondary Certificate</li>
         <li>GPA 5.00</li></p>
-        <p><b>Monipur High School and College</b>
+   <p><b>Monipur High School and College</b>
         <li>Secondary School Certificate</li>
         <li>GPA 5.00</li></p>
     </ul>
