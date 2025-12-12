@@ -148,11 +148,11 @@
 <section id="education">
     <h2>Education</h2>
     <ul>
-   <h3><li><b>Ahsanullah University of Science and Technology (AUST)</b></li></h3> 
+   <h3><b>Ahsanullah University of Science and Technology (AUST)</b></h3> 
         <p>B.Sc. in Civil Engineering </p>
-   <h3><li><b>BAF Shaheen College Dhaka</b></li></h3>
+   <h3><b>BAF Shaheen College Dhaka</b></h3>
         <p>Higher Secondary Certificate</p>
-   <h3><li><b>Monipur High School and College</b></li></h3>
+   <h3><b>Monipur High School and College</b></h3>
         <p>Secondary School Certificate</p>
     </ul>
 </section>
